@@ -1,2 +1,2 @@
-vek = 15
-print("Je mi", vek, "let")
+vek = 17
+print(f"Je mi {vek} let")
